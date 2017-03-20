@@ -16,7 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog( @"我爱你是我独家的记忆");
+    NSLog( @"我爱你是我独家的记忆askdjhakoldhnakls fnkajfk;anfklankof ");
+
 }
 
 
